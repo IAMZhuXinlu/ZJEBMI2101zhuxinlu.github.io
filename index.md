@@ -1,7 +1,11 @@
 ## Welcome 
 
-My name is ZHUXINLU. 
+My name is Zhu Xinlu.
 
-I am an IBI1 student at ZJU-UoE institute, Zhejiang University.
+I am a BMI student at ZJU-UoE institute, Zhejiang University. 
+
+I am learning IBI1.
+
+:)
 
 [webpage](https://c.zju.edu.cn/) 
